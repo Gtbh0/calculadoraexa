@@ -15,6 +15,6 @@ public class Class1
 
     public int Suma()
     {
-        return num1 * num2;
+        return num1 / num2;
     }
 }
